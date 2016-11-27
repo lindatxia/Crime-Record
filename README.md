@@ -13,5 +13,3 @@ You are able to enter three various queries to interpret this data meaningfully:
 
 A KML file is rewritten after each query. Placemark elements in the KML file allow for specific crime data to be displayed (for example, crime type).
 
-
-![]({{site.baseurl}}//3000forbesav%20NEARBY1000ft.png)
